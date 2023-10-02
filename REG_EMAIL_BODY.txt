@@ -1,0 +1,20 @@
+Hi ${FNAME} {$LNAME}, <br/>
+</br>
+
+Welcome To this page, Your Registartion is almost completed. <br/>
+<br/>
+
+Please unlock your account using below details. <br/>
+
+<br/>
+
+Temporary pwd : ${TEMP_PWD} <br/>
+
+<br/>
+
+<a href="http://localhost:4200/unlock?email =${EMAIL}"> Click here to Unlock </a> <br/>
+
+<br/>
+
+Thanks,<br/>
+Saikumar Yakkala.<br/>
